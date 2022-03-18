@@ -1,0 +1,18 @@
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: inherit;
+}
+.letra{
+    font-style: inherit;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.titulo{
+    color: rgb(180, 121, 44);
+    margin :1px;
+    border: 10px solid;
+    border-color: rgb(11, 124, 139);
+    background-color:rgb(11, 124, 139);
+}
